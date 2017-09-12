@@ -24,8 +24,17 @@ then i spent 3 years after in an HIV/AIDS and tuberculosis center. it was a topi
 My first Software was to create a Patient Monitoring, Management and Tracking Software that will enforce compliance and adherence and help in eradictation of the disease.
 my first demo of the software landed me a Consultant position for Case-Based survelliance system at Organization of Eastern Caribbean States. I now want to have a graduate degree in Software Engineering. I started a search for a good school where I can take most of my courses on line and at the end graduate with a lot of knowledge that gives me the feeling of "having a brand new brain". Harvard was one of the top i saw. so i am here and i love it so far.
 
+<?php
+function quotes(){
+$quotes = array("The Patient Dog eats the fatest bone: but sometimes the patient dog will die of hunger -- African Proverb", "In the kingdom of the blind the one-eyed man is the king : but if everyone in the kingdom is blind how can they verify that their one-eyed king actually has a one eye. -- Fela Kuti", "He that laughs last laughs best: but sometimes he that laughs last does not understand the joke -- African Proverb");
+echo $quotes[$random_keys = array_rand($quotes,1)];
+
+}
+?>
 <div>
 <h3>Random Quotes</h3>
+<?php quotes();?>
+
 </div>
 
 
