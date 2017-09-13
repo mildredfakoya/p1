@@ -22,7 +22,7 @@ I felt i had proven a point to myself. I started on the path to my dream. </p>
 <p>I spent the next 6 months after my certification exams at a teaching hospital. I embarked on an industrial attachment in Pathology to understand basically bacterial infections, the types of screenings used to detect them, the sensitivity to antibiotics and so on. i needed this knowledge for the first software i wanted to build.
 then i spent 3 years after in an HIV/AIDS and Tuberculosis center. it was a topic to explore. i wanted to get a full understanding of HIV from Screening - Reactive -Positive - Management - Death. i also wanted to understand all the OIs that comes with it and a lot of medical details. i got more than enough knowledge to get to work.
 My first Software was to create a Patient Monitoring, Management and Tracking Software that will enforce compliance and adherence and help in eradictation of the disease.
-my first demo of the software landed me a Consultant position. I now want to have a graduate degree in Software Engineering. I started a search for a good school where I can take most of my courses on-line and at the end graduate with a lot of knowledge that gives me the feeling of "having a brand new brain". Harvard was one of the top i saw. so i am here and i love it so far.</p>
+My first demo of the software landed me a Consultant position. I now want to have a graduate degree in Software Engineering. I started a search for a good school where I can take most of my courses on-line and at the end graduate with a lot of knowledge that gives me the feeling of "having a brand new brain". Harvard was one of the top i saw. so i am here and i love it so far.</p>
 
 <?php
 function quotes(){
