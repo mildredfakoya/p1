@@ -31,22 +31,7 @@ content:"";
 clear:both;
 }
 
-.color1{
-background-color:#328332;
-}
 
-.color2{
-background-color:#4c924c;
-}
-.color3{
-background-color:#66a266;
-}
-.color4{
-background-color:#99c19a;
-}
-.color5{
-background-color:#cce0cc;
-}
 
 img{
 max-width:100%;
@@ -85,13 +70,4 @@ p{
   text-align:justify;
 font-family: fantasy;
 }
-div.outer{
 
-}
-
-div.heading{
-
-}
-div.container{
-
-}
