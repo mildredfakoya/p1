@@ -19,11 +19,7 @@ As a child, I dreamt of becoming a Medical Doctor. Getting admitted, into a Nige
 So i took the path to certifications form Microsoft and Oracle. I didn't like being trainned, all I always needed were textbooks and relevant softwares. After few years of self trainning, i took a couple of certification exams from both Microsoft and Oracle and I passed them all.
 I felt i had proven a point to myself. I started on the path to my dream. </p>
 <h2>Path to Harvard Extension School</h2>
-<p>I spent six months at a teaching Hospital. I embarked on an industrial attachment in Pathology to understand basically bacterial infections, the types of screenings used to detect them, their sensitivity to antibiotics and so on. I needed this knowledge for the first software I wanted to build.
-then I spent another three years at an HIV/AIDS and Tuberculosis center. it was a topic to explore. i wanted to get a full understanding of HIV from Screening - Reactive -Positive - Management - Death. I also wanted to understand all the OIs that comes with it and a lot of medical details. I got more than enough knowledge to get to work.
-My first Software was to create a Patient Monitoring, Management and Tracking Software that will enforce compliance and adherence and help in eradictation of the disease.
-My first demo of the software landed me a Consultant position. I now want to have a graduate degree in Software Engineering. I started a search for a good school where I can take most of my courses on-line and at the end graduate with a lot of knowledge that gives me the feeling of "having a brand new brain". Harvard was one of the top i saw. So i am here and i love it so far.</p>
-
+<p>I am a sofware for Developer for Health information systems and i feel having a graduate degree in Software Engineering will perfect my skills.</p>
 <?php
 function quotes(){
 $quotes = array();
