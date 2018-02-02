@@ -10,8 +10,8 @@
 <div class ="textcontainer">
 <h1>Mildred Ayeesha Fakoya</h1>
 <img src ="images/me.jpg" alt ="Picture of Mildred Fakoya" class ="imgright">
-<p>My name is Mildred Ayeesha Fakoya. I am 30 Years Old. I live in Dominica Caribbean Island. I am a Nigerian by Birth.<br/>
-I have been married for over 7 years now. I have two sons ages 6 years and 5 years. </p>
+<p>My name is Mildred Ayeesha Fakoya. I am 31 Years Old. I live in Saint Vincent & the Grenadines. I am a Nigerian by Birth.<br/>
+I have been married for 8 years now. I have two sons ages 7 years and 6 years. </p>
 <p>I hold a BSc. in Computer Science from Kogi State University, Nigeria. <br/>
 As a child, I dreamt of becoming a Medical Doctor. Getting admitted, into a Nigerian University to study Medicine & Surgery, was very difficult, so i settled for Computer Science as my first degree. After I graduated from the University with my degree, I felt something was missing. Was it my unfulfilled passion for wanting to be a doctor? I didn't yet understand what it was.
 </p>
@@ -32,6 +32,7 @@ $quotes[1] = "If the lord does not protect a city the watchman watches in vain -
 $quotes[2] = "The Patient Dog eats the fattest bone: but sometimes the patient dog will die of hunger -- African Proverb";
 $quotes[3] = "In the kingdom of the blind the one-eyed man is the king : but if everyone in the kingdom is blind how can they verify that their one-eyed king actually has a one eye. -- Fela Kuti";
 $quotes[4] = "He that laughs last laughs best: but sometimes he that laughs last does not understand the joke -- African Proverb";
+$quotes[5] = "Perfection is finally attained not when there is no longer anything to add but when there is no longer anything to take away.";
 echo $quotes[$random_keys = array_rand($quotes,1)];
 
 }

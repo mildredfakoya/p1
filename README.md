@@ -1,1 +1,9 @@
-# Project 1: Fall 2017 by mildred fakoya
+# Project 1
++ By: *Mildred Fakoya*
++ Production URL: <http://p1.mildredfakoya.me>
+
+## Outside resources
+*None*
+
+
+
